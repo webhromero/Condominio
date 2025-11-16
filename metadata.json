@@ -1,0 +1,5 @@
+{
+  "name": "condominio",
+  "description": "A modern web application for condominium management, providing residents with access to announcements, financial statements, documents, and reservation systems, all in a clean and intuitive interface powered by Gemini.",
+  "requestFramePermissions": []
+}
